@@ -3,7 +3,7 @@
   - Nombre 1 - Rol 1
   - Maximiliano Riffo- Rol 2
   - Santiago Marín - Rol 3
-  - Nombre 4 - Rol 4
+  - Joaquín Paiva - Rol 4
   
 - **ODS Seleccionado:** [Número y nombre]
 - **Problema a resolver:** [Descripción breve]
