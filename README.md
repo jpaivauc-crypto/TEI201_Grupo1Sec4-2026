@@ -1,10 +1,9 @@
 ### Información del Equipo
 - **Integrantes:**
   - Sebastian Cáceres - Rol 1
-  - Maximiliano Riffo- Rol 2
+  - Maximiliano Riffo-  Rol 2
   - Santiago Marín - Rol 3
   - Joaquín Paiva - Rol 4
-  - Mariano Pedrosa - Rol 5
   
 - **ODS Seleccionado:** ODS 11 Ciudades y comunidades sostenibles
 - **Problema a resolver:** Demora en estacionar UAI
