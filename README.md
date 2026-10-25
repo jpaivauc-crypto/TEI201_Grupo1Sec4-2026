@@ -1,4 +1,4 @@
-### Información del Equipo
+ dd### Información del Equipo
 - **Integrantes:**
   - Sebastian Cáceres - Rol 1
   - Maximiliano Riffo- Rol 2
